@@ -1,0 +1,13 @@
+﻿  interns.pb.cc
+C:\Users\Deepansh\source\repos\task_1\task_1\interns.pb.cc(302,15): warning C4244: 'argument': conversion from 'google::protobuf::uint64' to 'int', possible loss of data
+C:\Users\Deepansh\source\repos\task_1\task_1\interns.pb.cc(594,62): warning C4244: '=': conversion from 'google::protobuf::uint64' to 'google::protobuf::int32', possible loss of data
+C:\Users\Deepansh\source\repos\task_1\task_1\interns.pb.cc(625,15): warning C4244: 'argument': conversion from 'google::protobuf::uint64' to 'int', possible loss of data
+C:\Users\Deepansh\Desktop\apt\task_1\install\include\google\protobuf\has_bits.h(73,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Deepansh\Desktop\apt\task_1\install\include\google\protobuf\has_bits.h(72): message : while compiling class template member function 'void google::protobuf::internal::HasBits<1>::Or(const google::protobuf::internal::HasBits<1> &)'
+C:\Users\Deepansh\source\repos\task_1\task_1\interns.pb.cc(322): message : see reference to function template instantiation 'void google::protobuf::internal::HasBits<1>::Or(const google::protobuf::internal::HasBits<1> &)' being compiled
+C:\Users\Deepansh\Desktop\apt\task_1\install\include\google\protobuf\has_bits.h(83): message : see reference to class template instantiation 'google::protobuf::internal::HasBits<1>' being compiled
+  main.cpp
+  read.cpp
+  write.cpp
+  Generating Code...
+  task_1.vcxproj -> C:\Users\Deepansh\source\repos\task_1\x64\Debug\task_1.exe
